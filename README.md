@@ -12,6 +12,8 @@ Checks a list of seed phrases from a text file.
 
 Clone the repository or simply copy the `run.py` file.
 
+Install `bip-utils`:
+
 ```bash
 pip install bip-utils
 ```
